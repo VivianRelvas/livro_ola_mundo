@@ -1,0 +1,20 @@
+.gradle  
+#arquivos de execução - não armazena#
+
+**/build/   
+#arquivos de construção - não armazena# ** significa qualquer pasta/diretorio pega e ignora 
+
+#Ignorar também os arquivos gragle  GUI config#
+gradle-app.setting
+!gradle-wrapper.jar
+
+#cache do projeto#
+.gradletasksnamecache
+
+#os arquivos  .class#
+*.class
+
+#arquivos de pacote#
+*.jar
+*.war
+*.ear
