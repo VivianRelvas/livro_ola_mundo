@@ -4,9 +4,8 @@ plugins{
   id 'java'
 }
 
-repositors{
- 
-  jcenter()
+repositories{
+   jcenter()
 }
  
 dependencies{
