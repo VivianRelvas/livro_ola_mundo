@@ -5,7 +5,7 @@ plugins{
 }
 
 repositors{
-  #buscar alguns arquivos#
+ 
   jcenter()
 }
  
