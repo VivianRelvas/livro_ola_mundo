@@ -4,3 +4,5 @@ tasks:
 - init: mysql -u root -e "CREATE DATABASE applicationdb"
 #arquivomysql
 #testandobuildgradle
+#criandopacotes
+
