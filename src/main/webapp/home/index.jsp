@@ -15,3 +15,5 @@ pageEncoding="UTF-8"%>
        </body>       
 </html>
 
+//para finalizar no terminal -  gradle build - 
+
