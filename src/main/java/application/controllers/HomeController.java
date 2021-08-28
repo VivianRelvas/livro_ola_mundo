@@ -6,10 +6,10 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @Controller
-public class HomeController{
-@RequestMapping(method=RequestMethod.Get)
+public class HomeController{ 
+     @RequestMapping(method=RequestMethod.get)
 
-  public String index(){
+      public String index(){
       return "home/index.jsp";
-  }
+      }
 }
