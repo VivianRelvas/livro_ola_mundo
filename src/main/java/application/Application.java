@@ -5,9 +5,9 @@ public class Application {
      
      SpringApplication.run(Application.class, args);
 
-     //git add .
-     //git commit -m "Criando os pacotes" subir o arquivo
-     //git push - atualizar o arquivo
+     //git add . - vou adicionar tudo o que foi realizado
+     //git commit -m "Criando os pacotes" - Salvar o arquivo no GitHub
+     //git push - atualizar o arquivo - GitHub
 
     }
 }
