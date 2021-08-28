@@ -3,4 +3,4 @@ image: gitpod/workspace-mysql
 tasks:
 - init: mysql -u root -e "CREATE DATABASE applicationdb"
 #arquivomysql
-#testandobuild
+#testandobuildgradle
