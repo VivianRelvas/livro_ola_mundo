@@ -10,7 +10,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HomeController{ 
      @RequestMapping(method=RequestMethod.GET) //@ é uma anotação de uma classe com parâmetro 
 
-      public String index(){
-      return "home/index.jsp";
+     public String index(){   // delcarando um método
+         return "home/index.jsp";  //   diretório ou pasta home - arquivo index - java serve page
+
       }
 }
