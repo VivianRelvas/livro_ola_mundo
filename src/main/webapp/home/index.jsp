@@ -1,5 +1,3 @@
-//charset para não ter problemas com acentuação 
-
 <%@ page language="java" contentType="text/html;charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html>
@@ -12,6 +10,4 @@
         <h1>Olá Vivian Relvas!!!</h1>
     </body>
 </html>
-
-//para finalizar no terminal -  gradle build - 
 
