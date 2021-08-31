@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
-@Controller    //@ é uma anotação de uma classe
+@Controller    //@é uma anotação de uma classe
 public class HomeController{ 
      @RequestMapping(method=RequestMethod.GET) //@ é uma anotação de uma classe com parâmetro 
 
